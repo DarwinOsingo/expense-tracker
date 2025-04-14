@@ -1,0 +1,39 @@
+.app {
+  display: flex;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.sidebar {
+  width: 300px;
+  background: #f5f5f5;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+}
+
+form input,
+form button {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+form button {
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #333;
+}
+form input[type="text"] {
+  border: 1px solid #ccc;
+}
