@@ -31,3 +31,4 @@ JavaScript
 HTML/CSS
 # Author
 Built   by [ Osingo.D]
+ available @ https://vercel.com/new/darwinosingos-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=expense-tracker-wx73-azwjbuerj-darwinosingos-projects.vercel.app&projectName=expense-tracker-wx73&s=https%3A%2F%2Fgithub.com%2FDarwinOsingo%2Fexpense-tracker&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1
